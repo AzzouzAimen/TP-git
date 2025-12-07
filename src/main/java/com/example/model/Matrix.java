@@ -104,6 +104,7 @@ public class Matrix {
   @Override
   public int hashCode() {
     return super.hashCode();
+	// i have modiifed this file in pdrder to make a merge
   }
 
   // Additional methods can be added here
